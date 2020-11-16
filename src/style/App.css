@@ -1,0 +1,35 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html,body,#app {
+	width: 100%;
+	height: 100%;
+}
+
+/* img {
+	width: 100%;
+	height: 100%;
+} */
+
+a {
+	text-decoration: none;
+}
+
+li {
+	list-style: none;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-weight: normal;
+}
+
+.el-table tr td {
+	text-align: center;
+}
+
+.el-table tr th {
+	text-align: center;
+}
